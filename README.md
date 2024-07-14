@@ -67,3 +67,16 @@ https://whimsical.com/
 `
 https://www.evidentlyai.com/ 
 `
+
+** Creating the virtualenvirment**
+```bash
+conda create -n visa python=3.9 -y
+```
+
+```bash
+conda activate visa
+```
+
+```bash
+pip install -r requirements.txt
+```

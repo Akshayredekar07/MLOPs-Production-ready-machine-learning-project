@@ -3,6 +3,10 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#virtual envirnment
+/us_visa.egg-info
+
+
 # C extensions
 *.so
 
