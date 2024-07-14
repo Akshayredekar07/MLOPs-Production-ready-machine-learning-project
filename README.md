@@ -59,13 +59,11 @@ Developing a custom ANN with a sigmoid activation function for prediction.
 4. Select the top-performing models and tune their hyperparameters.
 5. Choose the best model based on desired metrics.
 
-## Project Setup
-
-### GitHub Repository
-All code and documentation will be maintained in a GitHub repository.
-
-### Requirements
-List of all dependencies and libraries required for the project.
-
-### Templates
-Predefined templates for issues, pull requests, and other repository management tasks.
+- Flowchart 
+`
+https://whimsical.com/
+`
+- MLOPS tool 
+`
+https://www.evidentlyai.com/ 
+`
